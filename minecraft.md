@@ -8,7 +8,7 @@ Minecraft to gra, która zrewolucjonizowała rynek gier niezależnych. Stworzona
 
 Gra oferuje dwa główne tryby: Survival i Creative. W trybie przetrwania gracze muszą zdobywać surowce, dbać o głód i walczyć z potworami, które pojawiają się w nocy. Z kolei tryb kreatywny daje dostęp do wszystkich bloków i pozwala latać, co zamienia grę w wirtualne klocki LEGO, gdzie jedynym ograniczeniem jest wyobraźnia twórcy.
 
-![Widok krajobrazu w Minecraft](https://image.api.playstation.com/vulcan/img/rnd/202010/2119/5s9r2M4JqYl7Xj7i4K4.png)
+![Widok krajobrazu w Minecraft](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages8.alphacoders.com%2F109%2Fthumb-1920-1099438.png&f=1&nofb=1&ipt=ec4cd825c52922eead5fe3e03b1d1198022a7315d6aa9c7a8581a8702ef4243a)
 
 ## Edukacja i Redstone
 
@@ -18,7 +18,7 @@ Niezwykłym aspektem Minecrafta jest "Redstone" - system symulujący obwody elek
 
 Siłą Minecrafta jest jego społeczność. Tysiące serwerów multiplayer pozwala graczom na wspólną zabawę, rywalizację w minigrach lub budowanie gigantycznych miast. Dodatkowo, gra jest otwarta na modyfikacje (mody), które potrafią całkowicie zmienić rozgrywkę, dodając nowe wymiary, magię czy zaawansowaną technologię przemysłową.
 
-![Gracze budujący wspólnie](https://files.imgu.pl/artykuly/2020/05/minecraft-1024x576.jpg)
+![Gracze budujący wspólnie](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fapkafe.com%2Fwp-content%2Fuploads%2Fhive-minecraft-servers.jpg&f=1&nofb=1&ipt=8f2161246353a91b5e0fddcb788fc4d852c2fb6b8f00c7d3c2f658b28b9116fe)
 
 ## Ponadczasowość
 

@@ -8,7 +8,7 @@ Cyberpunk 2077 przenosi nas do roku 2077, do megalopolis zwanego Night City. Jes
 
 Night City jest jednym z najbardziej imponujących miast w historii gier wideo. Jego wertykalna konstrukcja, neony, tłumy ludzi i różnorodność architektoniczna zapierają dech w piersiach. Każda dzielnica, od bogatego City Center po zrujnowaną Pacificę, ma swój unikalny gang i problemy, co sprawia, że eksploracja jest fascynująca.
 
-![Panorama Night City](https://image.api.playstation.com/vulcan/ap/rnd/202010/2012/655g620579930776.jpg)
+![Panorama Night City](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fa-static.besthdwallpaper.com%2Fcyberpunk-2077-video-game-night-city-concept-art-wallpaper-2400x1350-63186_50.jpg&f=1&nofb=1&ipt=8b508fd37fcaf38216839e7c4a0df98390e9483ba1edc70891d4f67ef6e1e657)
 
 ## Wolność rozgrywki
 
@@ -18,7 +18,7 @@ Gra oferuje ogromną swobodę w podejściu do zadań. Możemy rozwijać postać 
 
 Jednym z najważniejszych elementów fabuły jest postać Johnny'ego Silverhanda, rockmana i terrorysty, w którego wcielił się słynny aktor Keanu Reeves. Jego cyfrowy duch zamieszkuje w głowie głównego bohatera, co prowadzi do wielu interesujących dialogów i konfliktów wewnętrznych, napędzając narrację gry.
 
-![V i Johnny Silverhand](https://cdn-l-cyberpunk.cdprojektred.com/cyberpunk2077/wallpapers/1920x1080/V-and-Johnny-1920x1080-en.jpg)
+![V i Johnny Silverhand](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fbattlepenguin.com%2Fimages%2Fgaming%2Fcyberpunk2077%2Fv_and_johnny.jpeg&f=1&nofb=1&ipt=b7b2e919a03ec888436011922a080bd2d54a3d7e4bf20c1f57d0ebc487d47066)
 
 ## Odrodzenie gry
 

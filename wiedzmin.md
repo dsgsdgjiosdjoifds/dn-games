@@ -8,7 +8,7 @@ Wiedźmin 3: Dziki Gon to gra RPG akcji, która stanowi zwieńczenie trylogii o 
 
 Świat gry zachwyca swoim rozmiarem i szczegółowością. Od zniszczonych wojną Velen, przez tętniący życiem Novigrad, aż po mroźne wyspy Skellige - każda lokacja ma swój unikalny klimat. Co ważne, świat ten reaguje na decyzje gracza, a dynamiczna pogoda i cykl dnia i nocy potęgują immersję.
 
-![Geralt na koniu Płotce](https://cdn-l-cyberpunk.cdprojektred.com/witcher3/2023/updates/next-gen/1920x1080-witcher3-next-gen-update-01.jpg)
+![Geralt na koniu Płotce](https://fwcdn.pl/nph/49468/2019/20624.8.jpg)
 
 ## Walka i Przygotowanie
 
@@ -18,7 +18,7 @@ Bycie wiedźminem to nie tylko machanie mieczem. Walka wymaga taktyki: używania
 
 To, co wyróżnia Wiedźmina 3, to jakość scenariusza. Nawet proste zadania poboczne mają głębię i często stawiają gracza przed trudnymi wyborami moralnymi, gdzie nie ma dobrego i złego rozwiązania - jest tylko mniejsze zło. Postacie są wielowymiarowe, a dialogi napisane z polotem i humorem.
 
-![Geralt walczący z gryfem](https://image.api.playstation.com/vulcan/ap/rnd/202211/0711/kh4BRTiL8y808h5Z6u3d7a8T.jpg)
+![Geralt walczący z gryfem](https://planetagracza.pl/wp-content/uploads/2021/07/wiedzmin-3-geralt-walczy-z-gryfem-na-polanie.jpg)
 
 ## Gwint i dodatki
 
