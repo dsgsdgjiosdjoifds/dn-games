@@ -37,3 +37,5 @@ Mimo upływu lat, Minecraft wciąż jest jedną z najpopularniejszych gier na ś
 
 1. [Oficjalna strona Minecraft](https://www.minecraft.net/pl-pl)
 2. [Minecraft Wiki - Encyklopedia wiedzy](https://minecraft.fandom.com/pl/wiki/Minecraft_Wiki)
+
+[Wróć do strony głównej](index.html)
