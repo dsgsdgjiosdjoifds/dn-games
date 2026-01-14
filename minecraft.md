@@ -2,7 +2,7 @@
 
 ## Fenomen sześcianów
 
-Minecraft to gra, która zrewolucjonizowała rynek gier niezależnych. Stworzona początkowo przez jedną osobę, Markusa Perssona, szybko stała się globalnym fenomenem. Jej prostota graficzna, oparta na blokach (wokselach), jest myląca – pod spodem kryje się skomplikowany silnik pozwalający na niemal nieograniczoną interakcję z otoczeniem.
+Minecraft to gra, która zrewolucjonizowała rynek gier niezależnych. Stworzona początkowo przez jedną osobę, Markusa Perssona, szybko stała się globalnym fenomenem. Jej prostota graficzna, oparta na blokach (wokselach), jest myląca - pod spodem kryje się skomplikowany silnik pozwalający na niemal nieograniczoną interakcję z otoczeniem.
 
 ## Tryby gry dla każdego
 
@@ -12,7 +12,7 @@ Gra oferuje dwa główne tryby: Survival i Creative. W trybie przetrwania gracze
 
 ## Edukacja i Redstone
 
-Niezwykłym aspektem Minecrafta jest "Redstone" – system symulujący obwody elektryczne i logiczne. Dzięki niemu gracze budują w grze działające kalkulatory, procesory, a nawet proste komputery. Sprawiło to, że gra jest powszechnie wykorzystywana w szkołach do nauki logicznego myślenia, programowania i architektury.
+Niezwykłym aspektem Minecrafta jest "Redstone" - system symulujący obwody elektryczne i logiczne. Dzięki niemu gracze budują w grze działające kalkulatory, procesory, a nawet proste komputery. Sprawiło to, że gra jest powszechnie wykorzystywana w szkołach do nauki logicznego myślenia, programowania i architektury.
 
 ## Społeczność i Modyfikacje
 

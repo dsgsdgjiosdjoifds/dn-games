@@ -2,7 +2,7 @@
 
 ## Mroczna przyszłość
 
-Cyberpunk 2077 przenosi nas do roku 2077, do megalopolis zwanego Night City. Jest to miejsce, gdzie technologia spotyka się z upadkiem społecznym, a korporacje rządzą każdym aspektem życia. Gracz wciela się w V – najemnika, który próbuje przetrwać w tym bezwzględnym świecie, walcząc o unikalny implant gwarantujący nieśmiertelność.
+Cyberpunk 2077 przenosi nas do roku 2077, do megalopolis zwanego Night City. Jest to miejsce, gdzie technologia spotyka się z upadkiem społecznym, a korporacje rządzą każdym aspektem życia. Gracz wciela się w V - najemnika, który próbuje przetrwać w tym bezwzględnym świecie, walcząc o unikalny implant gwarantujący nieśmiertelność.
 
 ## Miasto jako bohater
 
@@ -12,7 +12,7 @@ Night City jest jednym z najbardziej imponujących miast w historii gier wideo. 
 
 ## Wolność rozgrywki
 
-Gra oferuje ogromną swobodę w podejściu do zadań. Możemy rozwijać postać jako hakera (Netrunnera), który przejmue kontrolę nad kamerami i smaży mózgi wrogów na odległość, lub jako "Solo" – eksperta od broni palnej i walki wręcz. System wszczepów (Cyberware) pozwala na modyfikację ciała, np. dodając ostrza modliszkowe w ramionach czy podwójny skok.
+Gra oferuje ogromną swobodę w podejściu do zadań. Możemy rozwijać postać jako hakera (Netrunnera), który przejmue kontrolę nad kamerami i smaży mózgi wrogów na odległość, lub jako "Solo" - eksperta od broni palnej i walki wręcz. System wszczepów (Cyberware) pozwala na modyfikację ciała, np. dodając ostrza modliszkowe w ramionach czy podwójny skok.
 
 ## Keanu Reeves jako Johnny Silverhand
 
